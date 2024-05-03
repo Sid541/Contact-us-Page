@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 18px;
+    background-color: rgba(240, 248, 255, 0.685);
+    padding: 10px;
+}
+li{
+    margin-right: 35px;
+}
+.contact{
+    font-weight: 400px;
+    margin-right: 35px;
+}
